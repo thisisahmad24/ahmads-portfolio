@@ -61,6 +61,15 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				malware: {
+					red: 'hsl(var(--malware-red))',
+					'red-dark': 'hsl(var(--malware-red-dark))',
+					'red-light': 'hsl(var(--malware-red-light))',
+					black: 'hsl(var(--malware-black))',
+					gray: 'hsl(var(--malware-gray))',
+					'gray-light': 'hsl(var(--malware-gray-light))',
+					danger: 'hsl(var(--malware-danger))'
 				}
 			},
 			borderRadius: {
